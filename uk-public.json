@@ -1,0 +1,350 @@
+{
+  "id": "uk-public",
+  "name": "UK public service broadcasters",
+  "criterion": "Designated UK public service broadcaster",
+  "updated": "2026-10-09",
+  "channels": [
+    {
+      "channelId": "UC16niRr50-MSBwiO3YDb3RA",
+      "title": "BBC News",
+      "network": "BBC",
+      "addedReason": "News channel of the BBC, a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCFQgi22Ht00CpaOQLtvZx2A",
+      "title": "ITV News",
+      "network": "ITV",
+      "addedReason": "News channel of ITV, a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCTrQ7HXWRRxr7OsOtodr2_w",
+      "title": "Channel 4 News",
+      "network": "Channel 4",
+      "addedReason": "News channel of Channel 4, a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCsjInJwm1vIMCeegrZSk_TQ",
+      "title": "5NEWS",
+      "network": "Channel 5",
+      "addedReason": "News channel of Channel 5, a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCCj956IF62FbT7Gouszaj9w",
+      "title": "BBC",
+      "network": "BBC",
+      "addedReason": "Main channel of the BBC, a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCQXHTFnQYFTqN0MqmNh9EIA",
+      "title": "BBC World Service",
+      "network": "BBC",
+      "addedReason": "International news channel of the BBC; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC6o-wWU-v2ClFMwougmK7dA",
+      "title": "BBC Politics",
+      "network": "BBC",
+      "addedReason": "BBC News politics channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCvhPRRiwI1_p4OBsY0yz6mg",
+      "title": "BBC News Africa",
+      "network": "BBC",
+      "addedReason": "BBC News Africa channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCF4QKhPMP1JybbkIJzIayww",
+      "title": "BBC News India",
+      "network": "BBC",
+      "addedReason": "BBC News India channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCNaWa-jK5ehH0od-KiGNeDw",
+      "title": "BBC News NI",
+      "network": "BBC",
+      "addedReason": "BBC News Northern Ireland channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCAwTHwWoyi_2jgB_lQjyIyg",
+      "title": "BBC Northern Ireland",
+      "network": "BBC",
+      "addedReason": "BBC Northern Ireland nations channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCXFVUI21c7n7wx6PmlkXJww",
+      "title": "BBC Scotland",
+      "network": "BBC",
+      "addedReason": "BBC Scotland nations channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCNH53DFjL1OBl3oWNxMmC_Q",
+      "title": "BBC Cymru Wales",
+      "network": "BBC",
+      "addedReason": "BBC Cymru Wales nations channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCBwejc-awS-mANgrkHQ5-6A",
+      "title": "BBC London",
+      "network": "BBC",
+      "addedReason": "BBC London regional news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCKlqMc-09XZknXO8jsK-15A",
+      "title": "BBC Newsround",
+      "network": "BBC",
+      "addedReason": "BBC children's news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCRTcuf-RM24BmY5XsiRP-mw",
+      "title": "BBC Trending",
+      "network": "BBC",
+      "addedReason": "BBC World Service current affairs channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCOBsVOG9Fp6kXK49fkOPYJQ",
+      "title": "BBC World Have Your Say",
+      "network": "BBC",
+      "addedReason": "BBC World Service current affairs channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCbV3UgmANsC21KSp9pl1p7w",
+      "title": "BBC Monitoring",
+      "network": "BBC",
+      "addedReason": "BBC Monitoring news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCu0Uc1oNDF36jRY_sskl8bA",
+      "title": "BBC Click",
+      "network": "BBC",
+      "addedReason": "BBC News technology programme channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCHZk9MrT3DGWmVqdsj5y0EA",
+      "title": "BBC Persian",
+      "network": "BBC",
+      "addedReason": "BBC World Service Persian news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCu7qsdVTUWcI_PclOr8z51Q",
+      "title": "BBC Pashto",
+      "network": "BBC",
+      "addedReason": "BBC World Service Pashto news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC8zQiuT0m1TELequJ5sp5zw",
+      "title": "BBC News - Русская служба",
+      "network": "BBC",
+      "addedReason": "BBC World Service Russian news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCb6YA2fEFl5YU8jiWt2ENwA",
+      "title": "BBC News Afaan Oromoo",
+      "network": "BBC",
+      "addedReason": "BBC World Service Afaan Oromoo news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC0JypFmHP-9wh5A3JjJLpcA",
+      "title": "BBC News Azərbaycanca",
+      "network": "BBC",
+      "addedReason": "BBC World Service Azerbaijani news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCthbIFAxbXTTQEC7EcQvP1Q",
+      "title": "BBC News Brasil",
+      "network": "BBC",
+      "addedReason": "BBC World Service Portuguese (Brazil) news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCibV1l_EUstWZfcHupIDQbg",
+      "title": "BBC News Gahuza",
+      "network": "BBC",
+      "addedReason": "BBC World Service Kinyarwanda and Kirundi news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCYUPBf8y9ggcnpBxCKZteHA",
+      "title": "BBC News Gujarati",
+      "network": "BBC",
+      "addedReason": "BBC World Service Gujarati news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCZXbvNkOqOKGdaiV82_3zAQ",
+      "title": "BBC News Hausa",
+      "network": "BBC",
+      "addedReason": "BBC World Service Hausa news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCN7B-QD0Qgn2boVH5Q0pOWg",
+      "title": "BBC News Hindi",
+      "network": "BBC",
+      "addedReason": "BBC World Service Hindi news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC46q-QSvoJz-1iSxPeuOqWA",
+      "title": "BBC News Indonesia",
+      "network": "BBC",
+      "addedReason": "BBC World Service Indonesian news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCCcey5CP5GDZeom987gqTdg",
+      "title": "BBC News Japan",
+      "network": "BBC",
+      "addedReason": "BBC World Service Japanese news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC7pluR6rB5KZIbN2IxamzxQ",
+      "title": "BBC News Marathi",
+      "network": "BBC",
+      "addedReason": "BBC World Service Marathi news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCUBIrDsIVzRpKsClMlSlTpQ",
+      "title": "BBC News Mundo",
+      "network": "BBC",
+      "addedReason": "BBC World Service Spanish news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCa9wigEw31xDMh_nrscmL6g",
+      "title": "BBC News Nepali",
+      "network": "BBC",
+      "addedReason": "BBC World Service Nepali news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCN5piaaZEZBfvFJLd_kBHnA",
+      "title": "BBC News Punjabi",
+      "network": "BBC",
+      "addedReason": "BBC World Service Punjabi news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC_QuRsbRQpaC4iS8WlxW0NA",
+      "title": "BBC News Somali",
+      "network": "BBC",
+      "addedReason": "BBC World Service Somali news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCoerKKIKIMlDYaVFSTlsWGw",
+      "title": "BBC News Swahili",
+      "network": "BBC",
+      "addedReason": "BBC World Service Swahili news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCxD03AhBg9LWQuJfijnzhhQ",
+      "title": "BBC News Tamil",
+      "network": "BBC",
+      "addedReason": "BBC World Service Tamil news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCiTCB-B_weEmwHk7ifNobQw",
+      "title": "BBC News Telugu",
+      "network": "BBC",
+      "addedReason": "BBC World Service Telugu news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCpoNfKwZbecrcFpzm0ET4uw",
+      "title": "BBC News Tiếng Việt",
+      "network": "BBC",
+      "addedReason": "BBC World Service Vietnamese news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCeMQiXmFNTtN3OHlNJxnnUw",
+      "title": "BBC News Türkçe",
+      "network": "BBC",
+      "addedReason": "BBC World Service Turkish news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCQvZD_M4nzOSyrPx0LfgOmQ",
+      "title": "BBC News Uzbek",
+      "network": "BBC",
+      "addedReason": "BBC World Service Uzbek news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCCrAKchnDFMhrKeXSYWXjGA",
+      "title": "BBC News na srpskom",
+      "network": "BBC",
+      "addedReason": "BBC World Service Serbian news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC8zGv2QY2-l6dyiyF9H2wzA",
+      "title": "BBC News Кыргыз",
+      "network": "BBC",
+      "addedReason": "BBC World Service Kyrgyz news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCZctsW8Tpx8Tz9Ln4KUmR3g",
+      "title": "BBC News Україна",
+      "network": "BBC",
+      "addedReason": "BBC World Service Ukrainian news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCvm8V4Dwtz0fbPGbpk7RYAg",
+      "title": "BBC News اردو",
+      "network": "BBC",
+      "addedReason": "BBC World Service Urdu news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC1BlYhs2s72P2QWBdbd6jqQ",
+      "title": "BBC News دری",
+      "network": "BBC",
+      "addedReason": "BBC World Service Dari news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCelk6aHijZq-GJBBB9YpReA",
+      "title": "BBC News عربي",
+      "network": "BBC",
+      "addedReason": "BBC World Service Arabic news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UChPD2BQ2dJ-w00klQQkc-Qg",
+      "title": "BBC News বাংলা",
+      "network": "BBC",
+      "addedReason": "BBC World Service Bengali news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UC3780MVtSV3Huj4si_CQvlQ",
+      "title": "BBC News සිංහල",
+      "network": "BBC",
+      "addedReason": "BBC World Service Sinhala news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCuO3Kt58tnucNMQVDaKDjWw",
+      "title": "BBC News ไทย",
+      "network": "BBC",
+      "addedReason": "BBC World Service Thai news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCd9maKo3B6jX8pCPzLa2hvA",
+      "title": "BBC News မြန်မာ",
+      "network": "BBC",
+      "addedReason": "BBC World Service Burmese news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCk4XEW3m7bowPUCKKmr9RJQ",
+      "title": "BBC News ትግርኛ",
+      "network": "BBC",
+      "addedReason": "BBC World Service Tigrinya news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCyRXtIvWAh8fzuBWqB0Q1RA",
+      "title": "BBC News አማርኛ",
+      "network": "BBC",
+      "addedReason": "BBC World Service Amharic news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCb3TZ4SD_Ys3j4z0-8o6auA",
+      "title": "BBC News 中文",
+      "network": "BBC",
+      "addedReason": "BBC World Service Chinese news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCIDOGTbwTBHZ5YoR9Xjcp-w",
+      "title": "BBC News 코리아",
+      "network": "BBC",
+      "addedReason": "BBC World Service Korean news channel; the BBC is a designated UK public service broadcaster"
+    },
+    {
+      "channelId": "UCBte7YLdJx-O_YljuvN6whg",
+      "title": "BBC Afrique",
+      "network": "BBC",
+      "addedReason": "BBC World Service French (Africa) news channel; the BBC is a designated UK public service broadcaster"
+    }
+  ]
+}

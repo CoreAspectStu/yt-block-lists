@@ -1,0 +1,50 @@
+{
+  "id": "au-public",
+  "name": "AU public broadcasters",
+  "criterion": "Funded under Australian national broadcaster legislation",
+  "updated": "2026-10-07",
+  "channels": [
+    {
+      "channelId": "UCVgO39Bk5sMo66-6o6Spn6Q",
+      "title": "ABC News (Australia)",
+      "network": "ABC",
+      "addedReason": "ABC news channel; ABC is funded under the Australian Broadcasting Corporation Act 1983"
+    },
+    {
+      "channelId": "UCxcrzzhQDj5zKJbXfIscCtg",
+      "title": "ABC News In-depth",
+      "network": "ABC",
+      "addedReason": "ABC news sub-channel; ABC is funded under the Australian Broadcasting Corporation Act 1983"
+    },
+    {
+      "channelId": "UC5iLnYoF4Ryb63YdGD9RfWQ",
+      "title": "ABC Australia",
+      "network": "ABC",
+      "addedReason": "ABC network channel; ABC is funded under the Australian Broadcasting Corporation Act 1983"
+    },
+    {
+      "channelId": "UCAul0b-ESub7TrUCQ01gUsQ",
+      "title": "ABC Kids",
+      "network": "ABC",
+      "addedReason": "ABC programme channel; ABC is funded under the Australian Broadcasting Corporation Act 1983"
+    },
+    {
+      "channelId": "UCd2KNtfphz8HvYzM4pwtHmg",
+      "title": "triple j",
+      "network": "ABC",
+      "addedReason": "ABC radio network channel; ABC is funded under the Australian Broadcasting Corporation Act 1983"
+    },
+    {
+      "channelId": "UCuuTCooIMbBFHNbPcSS70uw",
+      "title": "SBS News",
+      "network": "SBS",
+      "addedReason": "SBS news channel; SBS is funded under the Special Broadcasting Service Act 1991"
+    },
+    {
+      "channelId": "UCupDOc54HJbIPtgLjhABOZw",
+      "title": "SBS On Demand",
+      "network": "SBS",
+      "addedReason": "SBS network channel; SBS is funded under the Special Broadcasting Service Act 1991"
+    }
+  ]
+}

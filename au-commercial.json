@@ -1,0 +1,38 @@
+{
+  "id": "au-commercial",
+  "name": "AU commercial networks",
+  "criterion": "Australian commercial television network (free-to-air licence holder) or national commercial TV news channel",
+  "updated": "2026-10-07",
+  "channels": [
+    {
+      "channelId": "UC5T7D-Dh1eDGtsAFCuwv_Sw",
+      "title": "7NEWS",
+      "network": "Seven",
+      "addedReason": "7NEWS: news division of the Seven Network (free-to-air licence holder)"
+    },
+    {
+      "channelId": "UCIYLOcEUX6TbBo7HQVF2PKA",
+      "title": "9 News Australia",
+      "network": "Nine",
+      "addedReason": "9 News Australia: national news channel of the Nine Network (free-to-air licence holder)"
+    },
+    {
+      "channelId": "UC72nbKQLSDyiSARhg0Ywj4w",
+      "title": "9NEWS",
+      "network": "Nine",
+      "addedReason": "9NEWS: news division of the Nine Network (free-to-air licence holder)"
+    },
+    {
+      "channelId": "UC64A-bbH15b5kN5A32CErOA",
+      "title": "10 News",
+      "network": "Ten",
+      "addedReason": "10 News: news division of Network 10 (free-to-air licence holder)"
+    },
+    {
+      "channelId": "UCO0akufu9MOzyz3nvGIXAAw",
+      "title": "News24 (formerly Sky News Australia)",
+      "network": "Sky News Australia",
+      "addedReason": "News24: national commercial TV news channel (formerly Sky News Australia; rebrand stated in channel description, 2026-10-07)"
+    }
+  ]
+}
